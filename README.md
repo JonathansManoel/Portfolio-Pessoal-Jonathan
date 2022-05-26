@@ -5,4 +5,4 @@ Minha página pessoal da Dev Pro - Trilha Frontend
 
 ### Preview:
 
-[]()
+[https://jonathansmanoel.github.io/minhalandingpage/](https://jonathansmanoel.github.io/minhalandingpage/)
