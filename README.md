@@ -1,8 +1,8 @@
-# Minhalandingpage
+# Landing page
 Minha página pessoal da Dev Pro - Trilha Frontend
 
-# Minha página pessoal usando HTML & CSS
+# Minha página pessoal mostrando meu hobby, usando HTML & CSS
 
-### Preview:
+### Página:
 
 [https://jonathansmanoel.github.io/minhalandingpage/](https://jonathansmanoel.github.io/minhalandingpage/)
