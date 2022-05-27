@@ -5,4 +5,4 @@ Minha página pessoal da Dev Pro - Trilha Frontend
 
 ### Página:
 
-[https://jonathansmanoel.github.io/minhalandingpage/](https://jonathansmanoel.github.io/minhalandingpage/)
+[https://jonathansmanoel.github.io/Minha_landing_page_Atleta](https://jonathansmanoel.github.io/Minha_landing_page_Atleta/)
