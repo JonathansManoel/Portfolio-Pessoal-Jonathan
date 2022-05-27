@@ -199,6 +199,12 @@ ul.experiencia {
   color: #fff;
 }
 
+.icone-corrida {
+  width: 123px;
+  height: 123px;
+  padding-top: 30px;
+}
+
 /* -- Apenas no mobile */
 @media (max-width: 720px) {
   body {
