@@ -9,3 +9,4 @@ function Enviar() {
     );
   }
 }
+// responsável por lançar um aviso ao usuário final. Função é chamada no evento onclick(Quando o usuário clicar no botão “Enviar”)
