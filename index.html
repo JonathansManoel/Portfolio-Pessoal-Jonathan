@@ -32,7 +32,9 @@
       rel="styleshet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
     />
+    <script></script>
   </head>
+  <!-- Corpo da página, coloquei tudo dentro de blocos de códigos, as divs para organizar melhor -->
   <body>
     <span class="logotipo"><i class="far fa-registered"></i></span>
     <div class="logomarca fundo"></div>
@@ -211,20 +213,54 @@
           recompensas grandiosas, eu estou construindo um legado através dessa
           paixão pelo esporte.
         </p>
-        
+        <form name="meu_form">
+          <h1>Entre em contato</h1>
+
+          <input
+            type="text"
+            id="nomeid"
+            placeholder="Jonathan da Silva"
+            required="required"
+            name="nome"
+          />
+          <label for="nome">Nome</label>
+
+          <input
+            type="tel"
+            id="foneid"
+            placeholder="(xx)xx-xx-xx-xx"
+            name="fone"
+          />
+          <label for="fone">Fone</label>
+
+          <input
+            type="email"
+            id="emailid"
+            placeholder="fulano@mail.com"
+            name="email"
+          />
+          <label for="email">Email</label>
+
+          <textarea placeholder="Deixe sua opnião"></textarea>
+
+          <input
+            type="submit"
+            class="enviar"
+            onclick="Enviar();"
+            value="Enviar"
+          />
+        </form>
       </div>
       <div class="btn-inicio">
         <a href="#inicio"><i class="fas fa-angle-up"></i></a>
       </div>
     </div>
+    <!-- links com meu portifólio, Linkedin e Github -->
     <img class="icone-corrida logotipo" src="img/registrada.png" />
     <div class="footer">
       <h4>© Jonathan Manoel | Dev Pro | 2022</h4>
       <p class="links">
-        <a
-          href="https://github.com/JonathansManoel/minhalandingpage"
-          target="blank"
-        >
+        <a href="https://github.com/JonathansManoel" target="blank">
           <i class="pa2 fab fa-github-alt"></i>
         </a>
         <a href="https://www.linkedin.com/in/jonathanmanoel/" target="blank">
