@@ -1,21 +1,21 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* Criado um scrool de movimentação suave na página */
 body {
   font-family: "Lora", serif;
 }
-
+/* fonte padrão */
 .titulo {
   margin-top: 50px;
   font-family: "Courier New", Courier, monospace;
 }
-
+/* diferenciando os titulos */
 .titulo--fonte {
   font-family: "Exo 2", sans-serif;
   font-size: 1.9rem;
 }
-
+/* colocando as estruturas das fontes da página */
 .fonte--grande {
   font-size: 3.2rem;
 }
@@ -33,7 +33,7 @@ body {
   background-color: #2e2d4c;
   padding: 2px;
 }
-
+/* Fundo da página colocado uma imagem fixa */
 .cabecalho {
   width: 72%;
   color: #fff;
@@ -41,7 +41,7 @@ body {
   padding: 30px;
   text-align: center;
 }
-
+/* Estruturando o cabeçalho */
 .conteudo {
   line-height: 3rem;
   width: 72%;
@@ -55,11 +55,11 @@ body {
   box-shadow: -10px 8px 30px #312f2f;
   z-index: 2;
 }
-
+/* Configuração do conteudo da página */
 .subtitle--color {
   color: #c0bcc9;
 }
-
+/* Configuração geral da página */
 .avatar {
   width: 140px;
   float: left;
@@ -112,7 +112,7 @@ body {
   color: #65636b;
   text-decoration: underline;
 }
-
+/* Colocando uma aparência com hover */
 .navigation li a:active {
   color: #3b257c;
 }
@@ -126,7 +126,7 @@ body {
   margin-right: 18px;
   margin-top: 4px;
 }
-
+/* Ajustando as imagens */
 .fotos img:hover {
   filter: none;
 }
@@ -152,7 +152,7 @@ ul.experiencia {
 .btn-inicio:hover {
   opacity: 0.9;
 }
-
+/* Transparência do Botão */
 .habilidades label {
   width: 280px;
   display: inline-block;
@@ -203,6 +203,67 @@ ul.experiencia {
   width: 123px;
   height: 123px;
   padding-top: 30px;
+}
+/* Formulário */
+form {
+  font-family: Verdana, Tahoma, sans-serif;
+  font-size: 15px;
+  background-color: #2e2d4c;
+  max-width: 50%;
+  color: #ffffff;
+}
+
+h1 {
+  margin-bottom: 20px;
+  margin-left: 20px;
+  color: #66ffff;
+  text-shadow: 5px 5px 5px black;
+}
+
+input,
+textarea {
+  width: 200px;
+  padding: 10px;
+  color: black;
+  margin-left: 20px;
+  margin-top: 10px;
+  border: 1px solid;
+}
+/* Quando o cursor do mouse passar pelos controles inputs/textarea ou focus nestes, será aplicado estilos nessas tag’s */
+input:hover,
+textarea:hover,
+input:focus,
+textarea:focus {
+  border-color: #000066;
+  box-shadow: 5px 0px 9px #ffff00;
+  background-color: #66ffff;
+  color: black;
+  font-weight: bold;
+}
+
+.enviar {
+  background-color: #66ffff;
+  height: 40px;
+  width: 100px;
+  font-weight: bold;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border: 1px solid;
+  color: black;
+}
+
+textarea {
+  width: 400px;
+  height: 120px;
+  line-height: 20px;
+  max-width: 400px;
+}
+
+form label {
+  margin-left: 20px;
+  color: #ffffff;
+  font-weight: bold;
 }
 
 /* -- Apenas no mobile */
