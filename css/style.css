@@ -1,21 +1,21 @@
 html {
   scroll-behavior: smooth;
 }
-
+/* Criado um scrool de movimentação suave na página */
 body {
   font-family: "Lora", serif;
 }
-
+/* fonte padrão */
 .titulo {
   margin-top: 50px;
   font-family: "Courier New", Courier, monospace;
 }
-
+/* diferenciando os titulos */
 .titulo--fonte {
   font-family: "Exo 2", sans-serif;
   font-size: 1.9rem;
 }
-
+/* colocando as estruturas das fontes da página */
 .fonte--grande {
   font-size: 3.2rem;
 }
@@ -33,7 +33,7 @@ body {
   background-color: #2e2d4c;
   padding: 2px;
 }
-
+/* Fundo da página colocado uma imagem fixa */
 .cabecalho {
   width: 72%;
   color: #fff;
@@ -41,7 +41,7 @@ body {
   padding: 30px;
   text-align: center;
 }
-
+/* Estruturando o cabeçalho */
 .conteudo {
   line-height: 3rem;
   width: 72%;
@@ -55,11 +55,11 @@ body {
   box-shadow: -10px 8px 30px #312f2f;
   z-index: 2;
 }
-
+/* Configuração do conteudo da página */
 .subtitle--color {
   color: #c0bcc9;
 }
-
+/* Configuração geral da página */
 .avatar {
   width: 140px;
   float: left;
@@ -112,7 +112,7 @@ body {
   color: #65636b;
   text-decoration: underline;
 }
-
+/* Colocando uma aparência com hover */
 .navigation li a:active {
   color: #3b257c;
 }
@@ -126,7 +126,7 @@ body {
   margin-right: 18px;
   margin-top: 4px;
 }
-
+/* Ajustando as imagens */
 .fotos img:hover {
   filter: none;
 }
@@ -152,7 +152,7 @@ ul.experiencia {
 .btn-inicio:hover {
   opacity: 0.9;
 }
-
+/* Transparência do Botão */
 .habilidades label {
   width: 280px;
   display: inline-block;
