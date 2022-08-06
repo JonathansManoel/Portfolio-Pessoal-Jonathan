@@ -11,7 +11,7 @@ Aplicações Web e Móveis
 Atividade Prática
 Profa. Margärete Klamas, Esp.
 
-[https://jonathansmanoel.github.io/Minha_landing_page_Atleta](https://jonathansmanoel.github.io/Minha_landing_page_Atleta/)
+[https://jonathansmanoel.github.io/Portfolio-Pessoal-Jonathan](https://jonathansmanoel.github.io/Portfolio-Pessoal-Jonathan/)
 
 ## Critérios
 
