@@ -1,9 +1,11 @@
-# Landing page
-Minha página pessoal
+# Atividade Prática Uninter
+
+Página Atividade Prática
 
 ## Minha página pessoal mostrando meu hobby, usando HTML & CSS & BOOTSTRAP & JAVASCRIPT
 
 ### Página para Atividade Prática
+
 Ferramenta de Desenvolvimento Web
 Aplicações Web e Móveis
 Atividade Prática
@@ -14,10 +16,10 @@ Profa. Margärete Klamas, Esp.
 ## Critérios
 
 1. OBJETIVO
-Aplicar os conceitos estudados na disciplina de Ferramentas de
-Desenvolvimento Web.
+   Aplicar os conceitos estudados na disciplina de Ferramentas de
+   Desenvolvimento Web.
 2. PROGRAMAS NECESSÁRIOS
-Para desenvolver esta atividade será necessário:
+   Para desenvolver esta atividade será necessário:
 
 ❖ HTML
 
@@ -32,8 +34,8 @@ Para desenvolver esta atividade será necessário:
 ❖ Um diagramador (IDE VS Code, por exemplo)
 
 3. ORIENTAÇÕES GERAIS
-Desenvolver um site, totalmente funcional, com no mínimo quatro links,
-conforme orientações, e publicá-lo num servidor de hospedagem gratuito.
+   Desenvolver um site, totalmente funcional, com no mínimo quatro links,
+   conforme orientações, e publicá-lo num servidor de hospedagem gratuito.
 
 O tema do site: Portfólio pessoal (CV online).
 
@@ -70,11 +72,10 @@ não serão aceitas páginas idênticas entre alunos (ou iguais à Internet). Ca
 o corretor observe respostas iguais, elas serão consideradas como PLÁGIO
 e será atribuída a NOTA ZERO na questão.
 
-
 4. CRITÉRIOS DE CORREÇÃO DA ATIVIDADE
-Para que você obtenha a nota máxima na atividade, precisará cumprir todos os
-requisitos básicos explicados nas ORIENTAÇÕES GERAIS.
-Deverá ser entregue no link Trabalhos o endereço do seu site.
+   Para que você obtenha a nota máxima na atividade, precisará cumprir todos os
+   requisitos básicos explicados nas ORIENTAÇÕES GERAIS.
+   Deverá ser entregue no link Trabalhos o endereço do seu site.
 
 Dicas:
 
